@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loft11, you can call me Daria. I'm a tech student from Saint-Petersburg, Russia.
 - 👀 I’m interested in Data Science and Machine Learning. I do my best to get a first job in Data Science field.
-- 🌱 I’m currently learning 'Joining Data with Pandas' on DataCamp and Python basics at HSE (online).
+- 🌱 I’m currently learning at DataCamp and Data Science basics by myself.
 - 💞️ I’m looking for a learning partner to chat on DS topics and to visit meetups together. 
 - 📫 How to reach me : telegram @CosmicBorsoi, e-mail: daria.loft11@gmail.com
 
